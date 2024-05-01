@@ -1,5 +1,6 @@
 # Capstone-Project
 Name: Abdel Gumih
+- Youtube Video: https://youtu.be/LChBSBTeuDM
 - Design Tools used: Visual Studio/Basic
 - Issues Encountered:
   * At first, the images I was uploading would not get saved until I figured that currently it was best to save them to a textfile and load them from there.
