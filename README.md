@@ -34,14 +34,9 @@
 - 💾 Visual Studio (Recommended)
 
 ### **2️⃣ Clone the Repository**
-```sh
-git clone https://github.com/yourusername/dog-dating-app.git
-cd dog-dating-app
-3️⃣ Open the Project in Visual Studio
-Open Visual Studio.
-Click "Open a project or solution".
-Select DogDatingApp.sln inside the cloned repo.
-4️⃣ Run the App
-Click "Start" in Visual Studio.
-Explore dog profiles, upload pictures, and edit information!
+### **3️⃣ Open the Project in Visual Studio
+### **4️⃣ Run the App
+- Click "Start" in Visual Studio.
+- Explore dog profiles, upload pictures, and edit information!
+
   
