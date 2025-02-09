@@ -2,10 +2,10 @@
 
 **Dogs BeDating** is a fun and interactive Windows-based application built in **VB.NET** that helps dogs find their perfect match! 🐾💕
 
-## 🌟 Features
+##  Features
 
 ### **Form1 - Home Page**
-- 🌸 **Stylish UI with a hot pink theme** 🎨
+- 🐾 **Stylish UI with an eye-pleasing theme** 🎨
 - 🛒 **Download Buttons** for **Google Play** and **App Store**
 - 🔍 **Browse Profiles** button that navigates to **Form2**
 - 🐾 **Profile Icon** button that navigates to **Form3**
@@ -26,7 +26,7 @@
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### **1️⃣ Prerequisites**
 - 🖥️ Windows OS
